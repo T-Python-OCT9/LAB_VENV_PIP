@@ -1,6 +1,6 @@
 from art import tprint
 
+text = input('Please Enter Text: ')
 font = input('Please Enter Font ("rnd-small" or "random" or "block"): ')
-text = 'BELIEVE and ACHEIVE'
 
 tprint(text,font)
